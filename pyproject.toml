@@ -87,7 +87,7 @@ skip-magic-trailing-comma = true
 package = false
 
 [tool.uv.sources]
-chickenstats = { git = "https://github.com/chickenandstats/chickenstats", branch = "v1.7.9.29" }
+chickenstats = { git = "https://github.com/chickenstats/chickenstats", branch = "v1.7.9.29" }
 
 [dependency-groups]
 dev = [
