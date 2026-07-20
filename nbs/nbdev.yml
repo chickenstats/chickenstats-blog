@@ -6,4 +6,4 @@ website:
   site-url: "https://blog.chickenstats.com/"
   description: "Blog for chickenstats"
   repo-branch: main
-  repo-url: "https://github.com/chickenandstats/chickenstats-blog"
+  repo-url: "https://github.com/chickenstats/chickenstats-blog"
