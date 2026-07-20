@@ -50,7 +50,7 @@ website:
         href: projects.ipynb
     right:
       - icon: github
-        href: "https://github.com/chickenandstats/chickenstats-blog"
+        href: "https://github.com/chickenstats/chickenstats-blog"
   cookie-consent:
     type: express
     style: interstitial
@@ -58,7 +58,7 @@ website:
     left: Copyright &copy; 2025-26 chicken and stats
     right:
       - icon: github
-        href: "https://github.com/chickenandstats/chickenstats-blog"
+        href: "https://github.com/chickenstats/chickenstats-blog"
       - icon: bluesky
         href: "https://bsky.app/profile/chickenandstats.com"
 

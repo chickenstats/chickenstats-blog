@@ -15,7 +15,7 @@ classifiers = ["Natural Language :: English", "Intended Audience :: Developers",
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/chickenandstats/chickenstats-blog"
+Repository = "https://github.com/chickenstats/chickenstats-blog"
 Documentation = "https://blog.chickenstats.com/"
 
 [project.entry-points.nbdev]
