@@ -90,6 +90,7 @@ data = [
     "boto3>=1.43.2",
     "census>=0.8.24",
     "deltalake>=1.5.1",
+    "google-cloud-storage>=3.13.0",
     "osmnx>=2.0.7",
     "polars-st>=0.4.3",
     "us>=3.2.0",
